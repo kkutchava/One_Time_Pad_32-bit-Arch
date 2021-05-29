@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1619469474 source:c:\users\admin\desktop\aaaaaaa\decrc.c
+
+1619385356 source:c:\users\admin\desktop\aaaaaaa\decrs.s
+
+1619385356 source:c:\users\admin\desktop\aaaaaaa\encrc.c
+
+1619469464 source:c:\users\admin\desktop\aaaaaaa\lsfrc.c
+	<stdint.h>
+
+1619356114 source:c:\users\admin\desktop\aaaaaaa\lsfrs.s
+
+1619356349 source:c:\users\admin\desktop\aaaaaaa\w.s
+
+1619469364 source:c:\users\admin\desktop\aaaaaaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1619356601 source:c:\users\admin\desktop\aaaaaaa\g.c
+
+1619385073 source:c:\users\admin\desktop\aaaaaaa\aaa.c
+
+1619385390 source:c:\users\admin\desktop\aaaaaaa\encrs.s
+

@@ -26,7 +26,7 @@ int main()
 
     for (int i = 0; i < num; ++i) {
         scanf("%d", &text[i]);
-        text1[i] = text[i];
+        text1[i] = text[i]; //aaaaaaaa
     }
 
 
